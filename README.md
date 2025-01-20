@@ -27,7 +27,7 @@ includes a short code to display and filter a list of those posts.
 * Activate the plugin
 * A new panel (Parks) in the admin menu will show up.
 * Click on the menu to start add new record or edit the exist ones.
-* On the frot page where you wanto to show the park list, implement the shortcode:
+* On the front page where you want to show the park list, implement the shortcode:
 ```
 [park_list]
 ```
